@@ -221,11 +221,18 @@ In a large bowl:
 - Total stirring time: 1-2 minutes is enough
 ```
 
-**2️⃣ Cold Fermentation (Lazy Person's Secret!)**
+**2️⃣ Long Fermentation (Lazy Person's Secret!)**
+
+⭐ **Winter Version (Easiest!) - No fridge needed**
 ```
 1. Cover with plastic wrap (don't seal, leave gap)
-2. Place directly in refrigerator
-3. ⏰ Ferment 8-18 hours (just sleep on it!)
+2. Just leave on kitchen counter!
+3. ⏰ Room temp ferment 8-18 hours (just sleep on it!)
+
+💡 Why no fridge in winter?
+- Winter room temp 10-20°C (50-68°F) is already cold
+- Perfect temperature for slow fermentation
+- Saves fridge space, more convenient!
 
 💡 Flexible timing:
 - Minimum: 8 hours
@@ -233,16 +240,31 @@ In a large bowl:
 - Optimal: 12-15 hours
 ```
 
+🌡️ **Summer Version - Needs fridge**
+```
+If making in summer (room temp 25°C / 77°F or above):
+1. Cover with plastic wrap
+2. Place in refrigerator
+3. ⏰ Ferment 8-18 hours
+
+💡 Why fridge in summer?
+- Room temp too high, ferments too fast
+- Might over-ferment in 2-3 hours
+- Fridge gives stable slow fermentation
+```
+
 #### ☀️ Next Day Morning/Afternoon (Only 10 minutes work)
 
-**3️⃣ Take Out Dough**
+**3️⃣ Check Dough**
 ```
-Remove from fridge, you'll notice:
+Next day, check dough and you'll notice:
 - Dough has grown (2-3x original size)
 - Surface has bubbles - this is good!
 - Dough is still very sticky and wet
 
-⏰ Let sit at room temperature for 30 minutes to warm up
+⏰ How to proceed:
+- Winter room temp ferment: Shape directly (already at room temp)
+- Summer fridge ferment: Take out and warm 30 minutes at room temp
 ```
 
 **4️⃣ Shape and Pan (No Kneading!)**
@@ -284,22 +306,26 @@ Method B - Simple Folding (Slightly better appearance):
 - ✅ If not risen after 4 hours, just wait longer
 ```
 
-⚡ **Super Lazy Version - Cold second rise (zero effort!)**
+⚡ **Super Lazy Version - Second slow rise (zero effort!)**
 ```
-Even lazier method:
+Even lazier method (perfect for winter):
 1. Shape and place in pan
-2. Cover and put BACK in refrigerator!
-3. ⏰ Cold rise 8-12 hours (sleep on it again)
-4. Next day take out from fridge
-5. Let sit at room temp 30-60 minutes (warm up + slow rise)
-6. When reaches 70-80% full, bake directly
+2. Cover and leave on kitchen counter!
+3. ⏰ Continue fermenting 8-12 hours (sleep on it again)
+4. Next morning check directly
+5. When reaches 70-80% full, bake directly
 
-Timeline:
-- Day 1 night: Mix ingredients → fridge
-- Day 2 night: Shape into pan → fridge (5 min work)
-- Day 3 morning: Take out, warm 30-60 min → bake
+Timeline (Winter version):
+- Day 1 night 10:00 PM: Mix ingredients → leave on counter
+- Day 2 night 10:00 PM: Shape into pan → leave on counter (5 min work)
+- Day 3 morning 9:00 AM: Risen to 70-80% → bake directly!
 
-💡 This method is perfect for winter/cold environments!
+💡 Winter: No need to worry about temperature, just leave on counter!
+
+🌡️ Summer version:
+- Shape and put back in fridge (room temp too high, will over-ferment)
+- Next day take out, warm 30-60 minutes
+- Rise to 70-80% full, then bake
 ```
 
 **6️⃣ Baking**
@@ -354,35 +380,37 @@ Air fryer settings:
 
 ### 🔧 Timing Suggestions
 
-#### Plan A: Room Temp Rise (Perfect for winter/no warm spot) ⭐
+#### Plan A: Winter Standard (Easiest!) ⭐⭐
 ```
-Day 1 night 10:00 PM → Mix ingredients, refrigerate
-Day 2 evening 5:00 PM → Take out, warm 30 min
-Day 2 evening 5:30 PM → Shape into pan, room temp rise
+Day 1 night 10:00 PM → Mix ingredients, cover and leave on counter
+Day 2 evening 5:00 PM → Check dough (already risen)
+Day 2 evening 5:00 PM → Shape into pan, room temp rise
 Day 2 night 9:00 PM → Risen to 80-90%, start baking (3-4 hrs)
 Day 2 night 9:30 PM → Enjoy!
 
-💡 No need to find warm spot, just leave on kitchen counter!
+💡 Winter easiest: Leave on counter whole time, no fridge needed!
 ```
 
-#### Plan B: Super Lazy (Double cold ferment, easiest!) ⭐⭐
+#### Plan B: Super Lazy Winter Version (Most effortless!) ⭐⭐⭐
 ```
-Day 1 night 10:00 PM → Mix ingredients, refrigerate
-Day 2 night 10:00 PM → Shape into pan, back to fridge (5 min work)
-Day 3 morning 8:00 AM → Take out to warm up
-Day 3 morning 9:00 AM → Risen to 70-80%, bake directly
+Day 1 night 10:00 PM → Mix ingredients, leave on counter
+Day 2 night 10:00 PM → Shape into pan, keep on counter (5 min work)
+Day 3 morning 9:00 AM → Risen to 70-80%, bake directly!
 Day 3 morning 9:30 AM → Enjoy breakfast!
 
-💡 Laziest method, almost no waiting!
+💡 Completely hands-off: Mix once, shape once, bake once, done!
+💡 Winter: No fridge, no warm spot needed!
 ```
 
-#### Plan C: Quick Weekend (If you have warm spot)
+#### Plan C: Summer Version (Needs fridge)
 ```
-Friday 10:00 PM → Mix ingredients, refrigerate
-Saturday 8:00 AM → Take out to warm up
-Saturday 9:00 AM → Shape and pan, warm spot rise
-Saturday 10:30 AM → Risen, bake
-Saturday 11:00 AM → Enjoy!
+Day 1 night 10:00 PM → Mix ingredients, refrigerate
+Day 2 night 10:00 PM → Take out, shape into pan, back to fridge
+Day 3 morning 8:00 AM → Take out from fridge, warm up
+Day 3 morning 9:00 AM → Risen to 70-80%, bake directly
+Day 3 morning 9:30 AM → Enjoy!
+
+💡 Summer needs fridge to control temperature, otherwise ferments too fast
 ```
 
 ---
